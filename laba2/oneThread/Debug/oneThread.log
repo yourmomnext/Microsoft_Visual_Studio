@@ -1,0 +1,4 @@
+﻿  ONEthreads.cpp
+c:\users\дмитрий\source\repos\laba2\consoleapplication4\onethreads.cpp(36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\дмитрий\source\repos\laba2\consoleapplication4\onethreads.cpp(37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  oneThread.vcxproj -> C:\Users\Дмитрий\source\repos\laba2\Debug\oneThread.exe
