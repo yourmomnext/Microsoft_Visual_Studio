@@ -1,0 +1,5 @@
+Matrix Size,Processes,Threads per Process,Time (seconds)
+100,1,2,0.87393
+200,1,2,6.68269
+300,1,2,33.5725
+400,1,2,73.0694
